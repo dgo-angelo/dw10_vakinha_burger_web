@@ -4,8 +4,7 @@
 
   <img src="https://img.shields.io/static/v1?label=FLUTTER&message=FRAMEWORK&color=blue&style=for-the-badge&logoColor=white&logo=FLUTTER"/>
   <img src="https://img.shields.io/static/v1?label=DART&message=language&color=red&style=for-the-badge&logo=DART"/>
-  <img src="https://img.shields.io/static/v1?label=android&message=plataform&color=yellow&style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/static/v1?label=ios&message=plataform&color=yellow&style=for-the-badge&logo=ios"/>
+  <img src="https://img.shields.io/static/v1?label=web&message=plataform&color=yellow&style=for-the-badge&logo=web"/>
 
 </p>
 
